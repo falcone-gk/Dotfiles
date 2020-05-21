@@ -19,7 +19,7 @@ syntax on
 " Esquema de color para vim
 " =============================================================
 " Configuración para color de esquema material.
-colorscheme github 
+colorscheme material
 ""let g:github_colors_soft = 1
 
 " For Neovim > 0.1.5 and Vim > patch 7.4.1799 - https://github.com/vim/vim/commit/61be73bb0f965a895bfb064ea3e55476ac175162
